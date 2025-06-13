@@ -40,7 +40,7 @@ This article focuses on data modelling. It assumes you have already collected da
 
 | ![](../images/ml101-6-step-ml-framework.png) | 
 |:--:| 
-| *Machine learning projects can be broken into three steps, data collection, data modelling and deployment. This article focuses on steps within the data modelling phase and assumes you already have data. Full version on [Whimsical](https://whimsical.com/9g65jgoRYTxMXxDosndYTB).* |
+| *Machine learning projects can be broken into three steps, data collection, data modelling and deployment. This article focuses on steps within the data modelling phase and assumes you already have data. |
 
 1. [**Problem definition**](https://github.com/mrdbourke/zero-to-mastery-ml/blob/section-1/section-1-getting-ready-for-machine-learning/a-6-step-framework-for-approaching-machine-learning-projects.md#1-problem-definitionrephrase-your-business-problem-as-a-machine-learning-problem) — What business problem are we trying to solve? How can it be phrased as a machine learning problem?
 2. [**Data**](https://github.com/mrdbourke/zero-to-mastery-ml/blob/section-1/section-1-getting-ready-for-machine-learning/a-6-step-framework-for-approaching-machine-learning-projects.md#2-dataif-machine-learning-is-getting-insights-out-of-data-what-data-do-you-have) — If machine learning is getting insights out of data, what data we have? How does it match the problem definition? Is our data structured or unstructured? Static or streaming?
